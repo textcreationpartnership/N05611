@@ -3197,10 +3197,13 @@ the Slit may be the Clearer: Then by several Cuts of <gap reason="illegible" res
                   </gap> joining. Be careful in Imitation, and observe the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Directions, and without doubt you will gain your Command of Hand, or the Art of striking Letters, <hi>&amp;</hi> gained by frequent practising after good Examples.</p>
-               <figure>
-                  <head>
-                     <hi>N. B.</hi> 'Tis necessary for all those who would qualify themselves for Business, often to imitate this Print-Hand; to make clean Marks on Bales, or plain Directions on Parcels.</head>
-               </figure>
+               <p>
+                  <pb n="31" facs="unknown:007120_0035_0000000000000000"/>
+                  <figure>
+                     <head>
+                        <hi>N. B.</hi> 'Tis necessary for all those who would qualify themselves for Business, often to imitate this Print-Hand; to make clean Marks on Bales, or plain Directions on Parcels.</head>
+                  </figure>
+               </p>
             </div>
             <div type="part">
                <pb n="32" facs="unknown:007120_0036_0000000000000000"/>
@@ -17064,7 +17067,12 @@ multiply it by the Number of Inches that you found on the Surface of the Water, 
                   <p>
                      <hi>Example by the Adjacent Figure.</hi>
                   </p>
-                  <figure/>
+                  <p>
+                     <figure/> Let the Base or Ground <hi>BA</hi> represent the Breadth of a Moat or Ditch, and the Perpendicular <hi>BC</hi> re<g ref="char:EOLhyphen"/>present the Height of a Castle, Tower, or City <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all; and the Hypothenuse, or longest Side, represent the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ength of a Scaling Ladder.</p>
                   <p>In this Figure, the Base <hi>AB</hi> is supposed to contain 40 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ards; and the Perpendicular, or Height of the Tower or <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -17209,7 +17217,12 @@ multiply it by the Number of Inches that you found on the Surface of the Water, 
                      <desc>〈 math 〉</desc>
                   </gap>
                </p>
-               <figure/>
+               <p>
+                  <figure/> By <hi>Trigonometry,</hi> or the Doctrine of Triangles, are a Multitude of Questions solv'd, relating to Sailing on the Seas; to give one Instance. Suppose two Ships set Sail at one time, from one Place, the one sailing directly East 48 Leagues, as from <hi>C</hi> to <hi>B</hi>; and the other directly North, as from <hi>C</hi> to <hi>A,</hi> 36 Leagues; the Question is, how many Leagues are they distant or asunder one from the other? <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap> which two Numbers added, give for Total the square Root of which is 60; and so m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Leagues are the two Ships asunder or distant one from the other.</p>
                <p>Here the Distance of each Ship's Sailing is squared, and their Squares added together, and the Total is 3600; the square Root of which is 60, and the Answer to the Question, as in the Work.</p>
                <p>And being here speaking something relating to Sea Affairs, it may not be improper to say something concerning the Mariner's Compass.</p>
                <p>Before the Invention of this excellent and most useful In<g ref="char:EOLhyphen"/>strument, it was usual in long Voyages to sail by, or keep along the Coast, or at least to have it in Sight; as is mani<g ref="char:EOLhyphen"/>fest and plainly evident, by the Voyages of St. <hi>Paul, Acts</hi> xx.12; and 27; which Course made their Voyages long,
@@ -17565,7 +17578,10 @@ Star; the Plummet hanging at Liberty, the Thread <gap reason="illegible" resp="#
                         <desc>〈◊〉</desc>
                      </gap> latitude of</hi> 40 <hi>Degrees, as described in the following presentation.</hi>
                </p>
-               <figure/>
+               <p>
+                  <pb n="246" facs="unknown:007120_0250_0000000000000000"/>
+                  <figure/>
+               </p>
                <p>First, draw the Meridian or 12 o'Clock Line <hi>AB,</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -18366,9 +18382,12 @@ Vogue or Use, are these Three: 1. The Carpenter's Plain Rule. 2 <hi>Gunter</hi>'
                <head>
                   <hi>2.</hi> Gunter's Line.</head>
                <p>This Line is commonly set on the Carpenter's plain Rule, and consists of two Lines, one set at the End of the other, and Distances taken by Compasses, as aforesaid; and it is somewhat of the following Form.</p>
-               <figure>
-                  <head>Gunter's Line.</head>
-               </figure>
+               <p>
+                  <pb n="259" facs="unknown:007120_0263_0000000000000000"/>
+                  <figure>
+                     <head>Gunter's Line.</head>
+                  </figure>
+               </p>
                <p>To prove the Line by the Compasses, observe,
 <table>
                      <row>
